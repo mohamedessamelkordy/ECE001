@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -24,6 +24,7 @@ Smart assistants, Manufacturing and drone robots, Song or TV show recommendation
 
 
 <body style="background:url(https://i.pinimg.com/originals/66/fe/3f/66fe3fb9d3f51c1a781d45a32ab39935.jpg);">
+theme: jekyll-theme-slate
 
 
 
